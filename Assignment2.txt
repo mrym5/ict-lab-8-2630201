@@ -1,2 +1,3 @@
 Name: Maryam Mukhtar, Roll no: 2630201
 Today I learned about Git
+I learned how to push commits to GitHub
